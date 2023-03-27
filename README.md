@@ -1,10 +1,4 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/105745078/227970124-66b99e7b-e4ad-4c74-b84d-fc4e0b1e2490.png)
-<!--
-**aislinm/aislinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +7,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![image](https://user-images.githubusercontent.com/105745078/227970124-66b99e7b-e4ad-4c74-b84d-fc4e0b1e2490.png)
+<!--
+**aislinm/aislinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
